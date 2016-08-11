@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\paymax-server-sdk-net\PaymaxExample\obj\x86\Debug\PaymaxExample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\paymax-server-sdk-net\PaymaxExample\bin\Debug\PaymaxExample.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\paymax-server-sdk-net\PaymaxExample\bin\Debug\PaymaxExample.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\paymax-server-sdk-net\PaymaxExample\bin\Debug\PaymaxExample.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\paymax-server-sdk-net\PaymaxExample\bin\Debug\Paymax.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\paymax-server-sdk-net\PaymaxExample\bin\Debug\Paymax.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\paymax-server-sdk-net\PaymaxExample\obj\x86\Debug\PaymaxExample.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\paymax-server-sdk-net\PaymaxExample\obj\x86\Debug\PaymaxExample.pdb

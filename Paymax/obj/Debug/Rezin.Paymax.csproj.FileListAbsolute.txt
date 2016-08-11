@@ -1,0 +1,9 @@
+F:\PayNet\Rezin.Paymax\bin\Debug\Rezin.Paymax.dll
+F:\PayNet\Rezin.Paymax\bin\Debug\Rezin.Paymax.pdb
+F:\PayNet\Rezin.Paymax\bin\Debug\BouncyCastle.Crypto.dll
+F:\PayNet\Rezin.Paymax\obj\Debug\Rezin.Paymax.dll
+F:\PayNet\Rezin.Paymax\obj\Debug\Rezin.Paymax.pdb
+F:\PayNet\Rezin.Paymax\bin\Debug\Cn.Ubingo.Security.Interop.dll
+F:\PayNet\Rezin.Paymax\bin\Debug\Cn.Ubingo.Security.RSA.Core.dll
+F:\PayNet\Rezin.Paymax\bin\Debug\Cn.Ubingo.Security.RSA.Data.dll
+F:\PayNet\Rezin.Paymax\bin\Debug\Cn.Ubingo.Security.RSA.Key.dll

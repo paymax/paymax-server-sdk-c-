@@ -14,7 +14,7 @@ namespace PaymaxExample
         {
             PaymaxClient payClient = new PaymaxClient();
             string CHARGE_CHANNEL = "alipay_app";
-            string app_id = "app_9xSiRT643455T0L8";
+            string app_id = "app_7hqF2S6GYXET457i";
             Dictionary<string, object> paramDic = CreateChargeParmeters(CHARGE_CHANNEL,app_id);
 
             try
@@ -90,7 +90,7 @@ namespace PaymaxExample
        /// <param name="payClient"></param>
         private static void RetriveCharge(PaymaxClient payClient)
         {
-            String chargeId = "ch_35004f998ce3de5bb4dacc9d";
+            String chargeId = "ch_db8c1014e985bdf6f9fa562e";
             ChargeModel model = payClient.RetrieveCharge(chargeId);
             if (model != null)
             {

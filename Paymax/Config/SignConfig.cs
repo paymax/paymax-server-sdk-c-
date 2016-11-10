@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,8 @@ namespace Paymax.Config
         /// <summary>
         /// 商户自己的私钥【用com.Paymax.sign.RSAKeyGenerateUtil生成RSA秘钥对，公钥通过Paymax网站上传到Paymax，私钥设置到下面的变量中】
         /// </summary>
-        public static readonly string PRIVATE_KEY = "<RSAKeyValue><Modulus>hd7A3hlwxuuuk9xM0kxWIBrCV838PdEZscdTUYr3F4mAGYmDvF8RQ43DPgtQZRPKhwDZ9VQCoDdIuydu7mlYwG2lm9mwrqAk95zTOBu7sMmrwdpwK/SElzs3348MD6qHWCyJSIKisoJ4R4bSqnucPWDma8D9kH/9YSDIIQrhZm0=</Modulus><Exponent>AQAB</Exponent><P>531drYdtmBIv1a7ToC7ACPp8RDMm/Gh462ituIM+vEKmxis/7HCCeSJ3JrcpknkUcbYrClcNXfaeSneSkrdO/w==</P><Q>lAtdQF90zL+PIaCFy4NGAaI5u6idfHzWsukDEgiqImIwC4Qgox8wutNDbbzpmRWaSqDyIze7rSqxKU/SMEr2kw==</Q><DP>A4klqiXcZas5cdEWyGaOZlS1GzGQ0eAioK3boWrXxXZbJ8G3WzwosgL1wPChQOx6hHYc2C6WNK40oryKz5TfLw==</DP><DQ>GWP5kljMx3DzM2k8iTLyhsUz8aNxnzAqAnVEOYuS4mLEqrT2hAONb/1byy5jQgYaeEIyRSgB4Ck6SUOPYQj6UQ==</DQ><InverseQ>pNXQ1jCDRXiXNgET3635RTnbFvXRZ2u98h8BELCozTsaZmGsZLWcQ5ITrstSYpcwqQMFhN7/4zjctaH2gl/Nmg==</InverseQ><D>KyY1fGEu3K8ywi4MBOzeBdMaOTsHxtUTNx5MWMg2BLwpMhIFCD6MTf3vpJv4+dt7ODCqEE1X21R2ePyo4OfL1yAq9sSJcu7cUDHpY2nSc9rJesSleQV7vZVxDDoCJH8rLw6dlgnfYbNomQ22N4dyFzwrhOQ4nMmp9XiR+B4iaXE=</D></RSAKeyValue>";
+        public static readonly string PRIVATE_KEY = "<RSAKeyValue><Modulus>40xLsyGM0ARR34mKgpZAvfvm1iwvcuWvAeVdaZB7gFH7ktOa+kfFdgSyKc2ROvl2V+brlBg9sOR/r/zR7QcSGQbWKvRGdb9w8nLp/fg3MtSDOqKZhGatw4WvVbHKvXHRvLI7jQMev8xeTt5r8OAT6y17eBNAH8HiPbwp+/lERyU=</Modulus><Exponent>AQAB</Exponent><P>/htWIuPLs5ReHt1ZCF7q08OMHucgDphvKmQoWb/IRm57wST3Qy/AUJdF3EFu7FcVWIeyutPTUDsNQ5Ykv/V6hw==</P><Q>5P3TiGhxe1QWDcNkaJflzh1fNEKGLDwJiq7Y/mUnOq5894qyLkqlTo0YmLelwPz5lIa7V7oswP1aya8VLsh/8w==</Q><DP>6IKc83nax2wIH1fMgsNPPgudKB22EITcmz5gSZcZq5CmvlmTwq9r2pJAg0SAOdOJHaO1IAx5O918yo4U/Gyi+w==</DP><DQ>ZZnRf1aH82ZtmpG1PUsYJYmWskNJ8Np6iVPm54jODRVaUSLyx+NK0T19SlVBcA1OV34oJVZvgPlojM/oICfJzQ==</DQ><InverseQ>0xsVbT8e0dDmxkWdxL/38MVTLR/RDgRhgPmijuHHm8Y0ox05O+AVGmljDrPRGwqIcOhSc5HErgkiX4SFIyRs6w==</InverseQ><D>TiZcXLGrXZYupEIBCpcomWmz222DvuhzvJ4k+PfBTsRhUAFLZsQog0RoEXFpfrJo2x49X0TaaSiXMmYls25b7PLPuFJkHfCrzWbTJsmZ/GlWXxh76RKAenWxWlscY+tf64WwcEUSEiM8qYlIAae9SbgpBWhp1fWC30Jryr+dn10=</D></RSAKeyValue>";
+
         /// <summary
         /// Paymax提供给商户的SecretKey，登录网站后查看
         /// </summary>
